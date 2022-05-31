@@ -1,7 +1,7 @@
 # MacOS-Monterey-12.4-Msi-Modern14-B10mw
 **************Free EFI**************
 
-How To Upadate Hackintosh Opencore on Msi Modern 14 B10mw
+How To Upadate Hackintosh ((Opencore)) v7.6 on Msi Modern 14 B10mw
 From MacOS 12.0.1 To MacOS 12.4
 first go to https://mrmacintosh.com/macos-12-monterey-full-installer-database-download-directly-from-apple/
 click download
