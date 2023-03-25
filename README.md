@@ -1,5 +1,7 @@
 # MacOS-Monterey-12.4-Msi-Modern14-B10mw
 **************Free EFI**************
+# Dowdnload EFI
+https://www.pointweb.my.id/2023/03/instal-macos-monterey-124-di-laptop-msi.html
 
 How To Update Hackintosh ((Opencore)) v7.6 on Msi Modern 14 B10mw
 From MacOS 12.0.1 To MacOS 12.4
